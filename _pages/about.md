@@ -26,6 +26,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 I am Yihuai Gao (高义淮), a senior undergraduate in the department of Electronic Engineering at Tsinghua University. I am fortunate to visit the [MIT Quantum Photonics Group](https://www.rle.mit.edu/qp/) and was advised by [Prof. Dirk Englund](https://scholar.google.com/citations?user=ZFpENKoAAAAJ) in the summer of 2022. My research interest includes quantum technology, computational imaging and AI for science.
 
-Currently, I am fortunate to work the guide of [Prof. Bowen Zhou](https://scholar.google.com/citations?user=h3Nsz6YAAAAJ) for bachelor's thesis.
+Currently, I am working with the guide of [Prof. Bowen Zhou](https://scholar.google.com/citations?user=h3Nsz6YAAAAJ) for bachelor's thesis in the Tsinghua EE department.
 
 
