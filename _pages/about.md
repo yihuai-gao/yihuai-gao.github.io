@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 <a href='https://real.stanford.edu/'>Robotics & Embodiment AI Lab (REAL)</a> @ Stanford University 
 
-Hi! I am Yihuai Gao (高义淮), a first-year Ph.D. student in EE Department, Stanford University. I'm fortunate to be advised by Prof. [Shuran Song](https://shurans.github.io/) in the field of robot learning. I'm broadly interested in building robot systems and training robot manipulation policies. 
+Hi! I am Yihuai Gao (高义淮), a second-year Ph.D. student in EE Department, Stanford University. I'm fortunate to be advised by Prof. [Shuran Song](https://shurans.github.io/) in the field of robot learning. I'm broadly interested in building robot systems and training robot manipulation policies. 
 
 Prior to Stanford, I obtained a dual bachelor's degree (B.Eng in EE and B.S. in Math) from Tsinghua University in 2023, where I worked with Prof. [Bowen Zhou](http://c3i.ee.tsinghua.edu.cn/en/author/bowen-zhou/) and Prof. [Heng Yang](https://hankyang.seas.harvard.edu/) (at Harvard). I also had a great summer working with Prof. [Dirk Englund](https://scholar.google.com/citations?user=ZFpENKoAAAAJ&hl=en) at MIT in 2022.
 

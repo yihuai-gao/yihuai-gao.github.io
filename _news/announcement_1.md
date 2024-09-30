@@ -4,4 +4,4 @@ date: 2024-05-13
 inline: true
 ---
 
-One paper accepted to RSS 2024!
+Our paper [CLOSURE](https://arxiv.org/abs/2403.09990) is accepted to RSS 2024!
