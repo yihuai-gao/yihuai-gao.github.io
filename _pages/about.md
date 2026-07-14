@@ -13,7 +13,7 @@ profile:
   #   <p>davidgao1013@outlook.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -26,7 +26,7 @@ latest_posts:
 
 <a href='https://real.stanford.edu/'>Robotics & Embodiment AI Lab (REAL)</a> @ Stanford University
 
-Hi! I am Yihuai Gao (高义淮), a second-year Ph.D. student in EE Department, Stanford University. I'm fortunate to be advised by Prof. [Shuran Song](https://shurans.github.io/) in the field of robot learning. I'm broadly interested in building robot systems and training robot manipulation policies.
+Hi! I am Yihuai Gao (高义淮), a third-year Ph.D. student in EE Department, Stanford University. I'm fortunate to be advised by Prof. [Shuran Song](https://shurans.github.io/) in the field of robot learning. I'm generally interested in robot manipulation policies and systems, while currently exploring video generation for robots.
 
 Prior to Stanford, I obtained a dual bachelor's degree (B.Eng in EE and B.S. in Math) from Tsinghua University in 2023, where I worked with Prof. [Bowen Zhou](http://c3i.ee.tsinghua.edu.cn/en/author/bowen-zhou/) and Prof. [Heng Yang](https://hankyang.seas.harvard.edu/) (at Harvard). I also had a great summer working with Prof. [Dirk Englund](https://scholar.google.com/citations?user=ZFpENKoAAAAJ&hl=en) at MIT in 2022.
 

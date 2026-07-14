@@ -1,30 +1,126 @@
+# Keys must be the LOWERCASED last name (bib.liquid downcases before lookup).
+# firstname is a list of accepted first-name variants as they appear in papers.bib.
 
-"Ha":
+"chen":
+  - firstname: ["Kevin C.", "Kevin"]
+    url: https://scholar.google.com/citations?user=RUG3VjcAAAAJ
+
+"choi":
+  - firstname: ["Hyeongrak"]
+    url: https://qep-stonybrook.github.io/
+
+"christen":
+  - firstname: ["Ian"]
+    url: https://scholar.google.com/citations?user=T5QN5EIAAAAJ
+
+"clark":
+  - firstname: ["Genevieve"]
+    url: https://scholar.google.com/citations?user=sQDly4AAAAAJ
+
+"englund":
+  - firstname: ["Dirk"]
+    url: https://qp.mit.edu/
+
+"errando-herranz":
+  - firstname: ["Carlos"]
+    url: https://qutech.nl/person/carlos-errando-herranz/
+
+"finn":
+  - firstname: ["Chelsea"]
+    url: https://ai.stanford.edu/~cbfinn/
+
+"fu":
+  - firstname: ["Zipeng"]
+    url: https://zipengfu.github.io/
+
+"ge":
+  - firstname: ["Yunhao"]
+    url: https://gyhandy.github.io/
+
+"gilbert":
+  - firstname: ["Gerald"]
+    url: https://www.mitre.org/who-we-are/our-people/gerald-gilbert
+
+"gu":
+  - firstname: ["Jinwei"]
+    url: https://www.gujinwei.org/
+
+"ha":
   - firstname: ["Huy"]
     url: https://huy-ha.github.io/
 
-"Fu":
-- firstname: ["Zipeng"]
-  url: https://zipengfu.github.io/
+"han":
+  - firstname: ["Ruonan"]
+    url: https://hangroup.mit.edu/
 
-"Song":
-- firstname: ["Shuran"]
-  url: https://shurans.github.io/
+"harris":
+  - firstname: ["Isaac B. W.", "Isaac"]
+    url: https://scholar.google.com/citations?user=vAxNdGUAAAAJ
 
-"Yang":
-- firstname: ["Heng"]
-  url: https://hankyang.seas.harvard.edu/
+"ibrahim":
+  - firstname: ["Mohamed I.", "Mohamed"]
+    url: https://mibrahim.mit.edu/
 
-"Qi":
-- firstname: ["Han"]
-  url: https://han20192019.github.io/
-  
-"Tan":
-- firstname: ["Jie"]
-  url: https://www.jie-tan.net/
+"kim":
+  - firstname: ["Moo Jin"]
+    url: https://moojink.com/
 
-"Li":
-- firstname: ["Linsen"]
-  url: https://linsen-li.github.io/
-- firstname: ["Shuang"]
-  url: https://shuangli59.github.io/
+"lam":
+  - firstname: ["Grace"]
+    url: https://www.linkedin.com/in/grace-lam/
+
+"li":
+  - firstname: ["Linsen"]
+    url: https://linsen-li.github.io/
+  - firstname: ["Shuang"]
+    url: https://shuangli59.github.io/
+
+"liang":
+  - firstname: ["Percy"]
+    url: https://cs.stanford.edu/~pliang/
+
+"lin":
+  - firstname: ["Tsung-Yi"]
+    url: https://tsungyilin.info/
+  - firstname: ["Yen-Chen"]
+    url: https://yenchenlin.me/
+
+"liu":
+  - firstname: ["Jinyun"]
+    url: https://profiles.stanford.edu/jinyun-liu
+  - firstname: ["Ming-Yu"]
+    url: https://mingyuliu.net/
+
+"qi":
+  - firstname: ["Han"]
+    url: https://han20192019.github.io/
+
+"sadigh":
+  - firstname: ["Dorsa"]
+    url: https://dorsa.fyi/
+
+"santis":
+  - firstname: ["Lorenzo De", "Lorenzo"]
+    url: https://scholar.google.com/citations?user=Q9TmCvYAAAAJ
+
+"song":
+  - firstname: ["Shuran"]
+    url: https://shurans.github.io/
+  - firstname: ["Yixuan"]
+    url: https://scholar.google.com/citations?user=th1_t3kAAAAJ
+
+"tan":
+  - firstname: ["Jie"]
+    url: https://www.jie-tan.net/
+
+"tang":
+  - firstname: ["Yukai"]
+    url: https://scholar.google.com/citations?user=PKGFapQAAAAJ
+
+"trusheim":
+  - firstname: ["Matthew", "Matthew E."]
+    url: https://scholar.google.com/citations?user=RUJ8W9wAAAAJ
+
+"yang":
+  - firstname: ["Heng"]
+    url: https://hankyang.seas.harvard.edu/
